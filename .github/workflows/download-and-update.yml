@@ -1,0 +1,26 @@
+name: Download and Update File
+
+on:
+  schedule:
+    - cron: '30 1 * * *' # Run every day at 1:30 AM UTC (7:00 AM IST)
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Download file
+      run: curl -o data/downloaded_data.txt https://www.amfiindia.com/spages/NAVAll.txt # Replace with your URL and desired filename
+
+    - name: Update existing file (e.g., overwrite)
+      run: mv data/downloaded_data.txt data/NAVAll.txt # Replace with your target file name
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        git add data/NAVAll.txt # Replace with the updated file name
+        git commit -m "Update NAVAll.txt with new data"
+        git push
