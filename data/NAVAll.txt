@@ -4759,10 +4759,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118866;INF044D01CG6;INF044D01AA3;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;205.70;15-Jul-2025
-118867;INF044D01CH4;INF044D01CI2;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;94.80;15-Jul-2025
-100480;INF044D01AC9;-;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;188.74;15-Jul-2025
-108402;INF044D01997;-;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;88.42;15-Jul-2025
+118866;INF044D01CG6;INF044D01AA3;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;205.81;16-Jul-2025
+118867;INF044D01CH4;INF044D01CI2;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;94.85;16-Jul-2025
+100480;INF044D01AC9;-;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;188.84;16-Jul-2025
+108402;INF044D01997;-;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;88.47;16-Jul-2025
  
 Union Mutual Fund
  
@@ -5035,10 +5035,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;119.69;15-Jul-2025
-118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;237.24;15-Jul-2025
-100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;228.05;15-Jul-2025
-111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;110.67;15-Jul-2025
+118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;120.07;16-Jul-2025
+118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;237.98;16-Jul-2025
+100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;228.76;16-Jul-2025
+111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;111.01;16-Jul-2025
  
 Trust Mutual Fund
  
@@ -5745,10 +5745,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118870;INF044D01BX3;-;Taurus Large Cap Fund - Direct Plan - Growth;167.44;15-Jul-2025
-118871;INF044D01BY1;INF044D01BZ8;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;73.76;15-Jul-2025
-101209;INF044D01773;-;Taurus Large Cap Fund - Regular Plan - Growth;158.27;15-Jul-2025
-108403;INF044D01740;INF044D01757;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;69.33;15-Jul-2025
+118870;INF044D01BX3;-;Taurus Large Cap Fund - Direct Plan - Growth;168.04;16-Jul-2025
+118871;INF044D01BY1;INF044D01BZ8;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;74.02;16-Jul-2025
+101209;INF044D01773;-;Taurus Large Cap Fund - Regular Plan - Growth;158.84;16-Jul-2025
+108403;INF044D01740;INF044D01757;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;69.58;16-Jul-2025
  
 Union Mutual Fund
  
@@ -5960,10 +5960,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118872;INF044D01CA9;-;Taurus Mid Cap Fund - Direct Plan - Growth;132.61;15-Jul-2025
-118873;INF044D01CB7;INF044D01CC5;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;117.80;15-Jul-2025
-100477;INF044D01815;-;Taurus Mid Cap Fund - Regular Plan - Growth;125.64;15-Jul-2025
-111642;INF044D01781;INF044D01799;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;111.99;15-Jul-2025
+118872;INF044D01CA9;-;Taurus Mid Cap Fund - Direct Plan - Growth;132.68;16-Jul-2025
+118873;INF044D01CB7;INF044D01CC5;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;117.87;16-Jul-2025
+100477;INF044D01815;-;Taurus Mid Cap Fund - Regular Plan - Growth;125.70;16-Jul-2025
+111642;INF044D01781;INF044D01799;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;112.05;16-Jul-2025
  
 Union Mutual Fund
  
@@ -7134,20 +7134,20 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;61.30;15-Jul-2025
-118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;60.60;15-Jul-2025
-117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;54.86;15-Jul-2025
-117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;49.11;15-Jul-2025
-111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;129.70;15-Jul-2025
-118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;146.06;15-Jul-2025
-118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;98.05;15-Jul-2025
-111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;129.72;15-Jul-2025
-111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;87.69;15-Jul-2025
-118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;47.87;15-Jul-2025
-118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;74.12;15-Jul-2025
-118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;69.03;15-Jul-2025
-105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;69.08;15-Jul-2025
-105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;64.88;15-Jul-2025
+118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;61.41;16-Jul-2025
+118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;60.70;16-Jul-2025
+117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;54.95;16-Jul-2025
+117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;49.19;16-Jul-2025
+111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;129.68;16-Jul-2025
+118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;146.05;16-Jul-2025
+118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;98.04;16-Jul-2025
+111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;129.70;16-Jul-2025
+111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;87.67;16-Jul-2025
+118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;47.86;16-Jul-2025
+118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;74.22;16-Jul-2025
+118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;69.12;16-Jul-2025
+105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;69.17;16-Jul-2025
+105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;64.97;16-Jul-2025
  
 Union Mutual Fund
  
@@ -9274,10 +9274,10 @@ Open Ended Schemes(Money Market)
  
 Taurus Mutual Fund
  
-139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;15-Jul-2025
-139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;15-Jul-2025
+139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;16-Jul-2025
+139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;16-Jul-2025
 139616;-;-;Taurus Unclaimed Dividend - Growth;16.6987;21-Mar-2025
-139617;-;-;Taurus Unclaimed Redemption - Growth;16.9569;15-Jul-2025
+139617;-;-;Taurus Unclaimed Redemption - Growth;16.9588;16-Jul-2025
  
 Open Ended Schemes(Other Scheme - FoF Domestic)
  
@@ -11302,10 +11302,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;51.0042;15-Jul-2025
-118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;47.7341;15-Jul-2025
-112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;47.8886;15-Jul-2025
-112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;30.5329;15-Jul-2025
+118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;51.0404;16-Jul-2025
+118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;47.7681;16-Jul-2025
+112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;47.9223;16-Jul-2025
+112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;30.5544;16-Jul-2025
  
 UTI Mutual Fund
  
