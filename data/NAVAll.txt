@@ -1539,20 +1539,20 @@ Open Ended Schemes(Debt Scheme - Liquid Fund)
  
 Aditya Birla Sun Life Mutual Fund
  
-100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;422.4307;25-Jul-2025
-119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;427.5468;25-Jul-2025
-100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.195;25-Jul-2025
-119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.195;25-Jul-2025
-119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;164.0962;25-Jul-2025
-119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.225;25-Jul-2025
-100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.023;25-Jul-2025
-100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.068;25-Jul-2025
-103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;125.003;25-Jul-2025
-100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.694;25-Jul-2025
-100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.225;25-Jul-2025
-112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;285.8288;25-Jul-2025
-100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);703.4828;25-Jul-2025
-100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);685.5175;25-Jul-2025
+100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;422.5587;27-Jul-2025
+119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;427.6794;27-Jul-2025
+100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.195;27-Jul-2025
+119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.195;27-Jul-2025
+119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;164.1471;27-Jul-2025
+119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.2561;27-Jul-2025
+100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.023;27-Jul-2025
+100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.2156;27-Jul-2025
+103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;125.0409;27-Jul-2025
+100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.694;27-Jul-2025
+100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.2553;27-Jul-2025
+112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;285.9381;27-Jul-2025
+100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);703.696;27-Jul-2025
+100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);685.7253;27-Jul-2025
  
 Axis Mutual Fund
  
@@ -1832,11 +1832,11 @@ JM Financial Mutual Fund
  
 Kotak Mahindra Mutual Fund
  
-119764;-;INF174K01NH1;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;25-Jul-2025
-119766;INF174K01NE8;-;Kotak Liquid Fund - Direct Plan - Growth;5349.6201;25-Jul-2025
+119764;-;INF174K01NH1;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;27-Jul-2025
+119766;INF174K01NE8;-;Kotak Liquid Fund - Direct Plan - Growth;5351.2573;27-Jul-2025
 153585;INF174KA1WL3;INF174KA1WJ7;Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1001.527;10-Jul-2025
-100833;-;INF174K01NL3;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;25-Jul-2025
-100835;INF174K01NI9;-;Kotak Liquid Fund - Regular Plan - Growth;5299.001;25-Jul-2025
+100833;-;INF174K01NL3;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;27-Jul-2025
+100835;INF174K01NI9;-;Kotak Liquid Fund - Regular Plan - Growth;5300.5907;27-Jul-2025
  
 LIC Mutual Fund
  
@@ -3273,14 +3273,14 @@ Open Ended Schemes(Debt Scheme - Overnight Fund)
  
 Aditya Birla Sun Life Mutual Fund
  
-145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1000.02;25-Jul-2025
-145489;-;INF209KB1ZJ8;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;1000.02;25-Jul-2025
-145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.02;25-Jul-2025
-145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.02;25-Jul-2025
-145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.02;25-Jul-2025
-145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1000.02;25-Jul-2025
-145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1405.7353;25-Jul-2025
-145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1394.888;25-Jul-2025
+145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1000.3142;27-Jul-2025
+145489;-;INF209KB1ZJ8;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;1000.3228;27-Jul-2025
+145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.3079;27-Jul-2025
+145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.02;27-Jul-2025
+145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.02;27-Jul-2025
+145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1000.3087;27-Jul-2025
+145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1406.1485;27-Jul-2025
+145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1395.2896;27-Jul-2025
  
 Axis Mutual Fund
  
@@ -3515,10 +3515,10 @@ JM Financial Mutual Fund
  
 Kotak Mahindra Mutual Fund
  
-146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1386.4864;25-Jul-2025
-146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1378.2121;25-Jul-2025
-146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;25-Jul-2025
-146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;25-Jul-2025
+146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1386.8913;27-Jul-2025
+146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1378.6085;27-Jul-2025
+146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;27-Jul-2025
+146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;27-Jul-2025
  
 LIC Mutual Fund
  
@@ -9371,7 +9371,7 @@ Axis Mutual Fund
 147894;INF846K01U74;INF846K01U82;Axis Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly Dividend Option;11.8005;25-Jul-2025
 147891;INF846K01U90;INF846K01V08;Axis Income Plus Arbitrage Active FOF - Direct Plan - IDCW;14.7864;25-Jul-2025
 147892;INF846K01U41;INF846K01U33;Axis Income Plus Arbitrage Active FOF - Direct Plan - Monthly IDCW;14.7860;25-Jul-2025
-147893;INF846K01U66;INF846K01U58;Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;11.9820;25-Jul-2025
+147893;INF846K01U66;INF846K01U58;Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;11.9819;25-Jul-2025
 147898;INF846K01V32;INF846K01V24;Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;13.4032;25-Jul-2025
 147890;INF846K01V16;-;Axis Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;14.5228;25-Jul-2025
 147897;INF846K01V81;INF846K01V99;Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;12.3574;25-Jul-2025
@@ -9898,10 +9898,10 @@ Bandhan Mutual Fund
  
 Baroda BNP Paribas Mutual Fund
  
-150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;14.0496;24-Jul-2025
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;14.0496;24-Jul-2025
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;13.4287;24-Jul-2025
-150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;13.4287;24-Jul-2025
+150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;14.0728;25-Jul-2025
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;14.0728;25-Jul-2025
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;13.4505;25-Jul-2025
+150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;13.4505;25-Jul-2025
  
 DSP Mutual Fund
  
@@ -11428,7 +11428,7 @@ Aditya Birla Sun Life Mutual Fund
 139581;INF209KB10E8;-;Aditya Birla Sun Life BSE Sensex ETF;81.2391;25-Jul-2025
 152802;INF209KC1142;-;Aditya Birla Sun Life Crisil 10 Year Gilt ETF;109.4708;25-Jul-2025
 152732;INF209KC1134;-;ADITYA BIRLA SUN LIFE CRISIL BROAD BASED GILT ETF;110.328;25-Jul-2025
-151533;INF209KB18T9;-;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;1000.;25-Jul-2025
+151533;INF209KB18T9;-;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;1000.;27-Jul-2025
 150498;INF209KB14K7;-;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;30.9723;25-Jul-2025
 150497;INF209KB15K4;-;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;20.8504;25-Jul-2025
 115512;INF209KB19D1;-;Aditya Birla Sun Life Nifty 50 ETF;28.7787;25-Jul-2025
@@ -11582,7 +11582,7 @@ Kotak Mahindra Mutual Fund
 153314;INF174KA1VD2;-;Kotak MSCI India ETF;29.49;25-Jul-2025
 153315;INF174KA1UW4;-;Kotak Nifty 100 Equal Weight ETF;32.494;25-Jul-2025
 150000;INF174KA1IY5;-;Kotak Nifty 100 Low Volatility 30 ETF;20.6902;25-Jul-2025
-151358;INF174KA1LV5;-;Kotak Nifty 1D Rate Liquid ETF;1060.7949;25-Jul-2025
+151358;INF174KA1LV5;-;Kotak Nifty 1D Rate Liquid ETF;1061.0942;27-Jul-2025
 112351;INF174K014P6;-;Kotak Nifty 50 ETF;272.4305;25-Jul-2025
 135744;INF174K01Z71;-;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;146.1315;25-Jul-2025
 149397;INF174KA1IA5;-;Kotak Nifty Alpha 50 ETF;49.8252;25-Jul-2025
