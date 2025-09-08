@@ -2003,12 +2003,12 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-153035;INF680P01430;-;Shriram Liquid Fund - Direct Plan Growth Option;1053.7647;05-Sep-2025
-153036;INF680P01448;-;Shriram Liquid Fund - Regular Plan Growth Option;1052.5281;05-Sep-2025
-153282;-;-;Shriram Unclaimed IDCW Liquid Fund;1029.0365;05-Sep-2025
-153283;-;-;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;1000;05-Sep-2025
-153280;-;-;Shriram Unclaimed Redemption Liquid Fund;1039.7545;05-Sep-2025
-153281;-;-;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;1000;05-Sep-2025
+153035;INF680P01430;-;Shriram Liquid Fund - Direct Plan Growth Option;1054.0808;07-Sep-2025
+153036;INF680P01448;-;Shriram Liquid Fund - Regular Plan Growth Option;1052.8354;07-Sep-2025
+153282;-;-;Shriram Unclaimed IDCW Liquid Fund;1029.401;07-Sep-2025
+153283;-;-;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;1000;07-Sep-2025
+153280;-;-;Shriram Unclaimed Redemption Liquid Fund;1040.0661;07-Sep-2025
+153281;-;-;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;1000;07-Sep-2025
  
 Sundaram Mutual Fund
  
@@ -3594,14 +3594,14 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;12.0768;05-Sep-2025
+150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;12.0803;07-Sep-2025
 150566;INF680P01281;INF680P01299;Shriram Overnight Fund -  Regular Fortnightly IDCW;10.0049;02-Feb-2023
-150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10;05-Sep-2025
+150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10;07-Sep-2025
 150564;INF680P01364;INF680P01372;Shriram Overnight Fund - Direct Fortnightly IDCW;10.0046;22-Sep-2022
-150567;INF680P01380;INF680P01398;Shriram Overnight Fund - Direct Monthly IDCW;10.0262;05-Sep-2025
-150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10;05-Sep-2025
-150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;12.045;05-Sep-2025
-150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.026;05-Sep-2025
+150567;INF680P01380;INF680P01398;Shriram Overnight Fund - Direct Monthly IDCW;10.0291;07-Sep-2025
+150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10;07-Sep-2025
+150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;12.0485;07-Sep-2025
+150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0289;07-Sep-2025
 150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0035;26-Jun-2024
  
 Sundaram Mutual Fund
@@ -11809,7 +11809,7 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-152741;INF680P01422;-;Shriram Nifty 1D Rate Liquid ETF - Growth;1069.114;05-Sep-2025
+152741;INF680P01422;-;Shriram Nifty 1D Rate Liquid ETF - Growth;1069.3879;07-Sep-2025
  
 Tata Mutual Fund
  
