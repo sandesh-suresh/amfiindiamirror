@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Download file
-      run: curl -o data/downloaded_data.txt https://www.amfiindia.com/spages/NAVAll.txt # Replace with your URL and desired filename
+      run: curl -o data/downloaded_data.txt https://portal.amfiindia.com/spages/NAVAll.txt # Replace with your URL and desired filename
 
     - name: Update existing file (e.g., overwrite)
       run: mv data/downloaded_data.txt data/NAVAll.txt # Replace with your target file name
