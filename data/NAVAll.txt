@@ -1822,12 +1822,12 @@ JM Financial Mutual Fund
  
 Kotak Mahindra Mutual Fund
  
-119764;-;INF174K01NH1;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;1223.0017;06-Dec-2025
-119766;INF174K01NE8;-;Kotak Liquid Fund - Direct Plan - Growth;5463.2933;06-Dec-2025
+119764;-;INF174K01NH1;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;07-Dec-2025
+119766;INF174K01NE8;-;Kotak Liquid Fund - Direct Plan - Growth;5464.1501;07-Dec-2025
 153585;INF174KA1WL3;INF174KA1WJ7;Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1001.527;10-Jul-2025
-100833;-;INF174K01NL3;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;1224.7394;06-Dec-2025
-100835;INF174K01NI9;-;Kotak Liquid Fund - Regular Plan - Growth;5409.4109;06-Dec-2025
-153586;INF174KA1WK5;INF174KA1WM1;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1004.9306;06-Dec-2025
+100833;-;INF174K01NL3;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;1224.9278;07-Dec-2025
+100835;INF174K01NI9;-;Kotak Liquid Fund - Regular Plan - Growth;5410.2429;07-Dec-2025
+153586;INF174KA1WK5;INF174KA1WM1;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1005.0852;07-Dec-2025
  
 LIC Mutual Fund
  
@@ -3521,10 +3521,10 @@ JM Financial Mutual Fund
  
 Kotak Mahindra Mutual Fund
  
-146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1413.9438;06-Dec-2025
-146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1405.0926;06-Dec-2025
-146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.7477;06-Dec-2025
-146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.8968;06-Dec-2025
+146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1414.145;07-Dec-2025
+146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1405.2894;07-Dec-2025
+146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;07-Dec-2025
+146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;07-Dec-2025
  
 LIC Mutual Fund
  
@@ -11848,7 +11848,7 @@ Kotak Mahindra Mutual Fund
 153314;INF174KA1VD2;-;Kotak MSCI India ETF;30.98;05-Dec-2025
 153315;INF174KA1UW4;-;Kotak Nifty 100 Equal Weight ETF;33.924;05-Dec-2025
 150000;INF174KA1IY5;-;Kotak Nifty 100 Low Volatility 30 ETF;22.065;05-Dec-2025
-151358;INF174KA1LV5;-;Kotak Nifty 1D Rate Liquid ETF;1081.0683;06-Dec-2025
+151358;INF174KA1LV5;-;Kotak Nifty 1D Rate Liquid ETF;1081.2165;07-Dec-2025
 153904;INF174KA1XS6;-;Kotak Nifty 200 Momentum 30 ETF;31.947;05-Dec-2025
 112351;INF174K014P6;-;Kotak Nifty 50 ETF;288.2283;05-Dec-2025
 135744;INF174K01Z71;-;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;155.2283;05-Dec-2025
