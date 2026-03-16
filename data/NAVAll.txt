@@ -9635,18 +9635,18 @@ Axis Mutual Fund
 120472;INF846K01DQ6;INF846K01DR4;Axis Gold Fund - Direct Plan - IDCW;49.7494;13-Mar-2026
 115897;INF846K01AL3;-;Axis Gold Fund - Regular Plan - Growth Option;45.6148;13-Mar-2026
 115898;INF846K01AM1;INF846K01AN9;Axis Gold Fund - Regular Plan - IDCW;45.6718;13-Mar-2026
-147895;INF846K01U25;INF846K01U17;Axis Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW;14.0737;12-Mar-2026
-147889;INF846K01U09;-;Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;15.2626;12-Mar-2026
-147894;INF846K01U74;INF846K01U82;Axis Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly Dividend Option;11.7818;12-Mar-2026
-147891;INF846K01U90;INF846K01V08;Axis Income Plus Arbitrage Active FOF - Direct Plan - IDCW;15.2752;12-Mar-2026
-147892;INF846K01U41;INF846K01U33;Axis Income Plus Arbitrage Active FOF - Direct Plan - Monthly IDCW;15.2752;12-Mar-2026
-147893;INF846K01U66;INF846K01U58;Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;12.1747;12-Mar-2026
-147898;INF846K01V32;INF846K01V24;Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;13.8123;12-Mar-2026
-147890;INF846K01V16;-;Axis Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;14.9661;12-Mar-2026
-147897;INF846K01V81;INF846K01V99;Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;12.3262;12-Mar-2026
-147888;INF846K01W07;INF846K01W15;Axis Income Plus Arbitrage Active FOF - Regular Plan - IDCW;14.9666;12-Mar-2026
-147896;INF846K01V57;INF846K01V40;Axis Income Plus Arbitrage Active FOF - Regular Plan - Monthly IDCW;14.9652;12-Mar-2026
-147905;INF846K01V73;INF846K01V65;Axis Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;11.4195;12-Mar-2026
+147895;INF846K01U25;INF846K01U17;Axis Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW;14.0728;13-Mar-2026
+147889;INF846K01U09;-;Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;15.2615;13-Mar-2026
+147894;INF846K01U74;INF846K01U82;Axis Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly Dividend Option;11.7810;13-Mar-2026
+147891;INF846K01U90;INF846K01V08;Axis Income Plus Arbitrage Active FOF - Direct Plan - IDCW;15.2742;13-Mar-2026
+147892;INF846K01U41;INF846K01U33;Axis Income Plus Arbitrage Active FOF - Direct Plan - Monthly IDCW;15.2742;13-Mar-2026
+147893;INF846K01U66;INF846K01U58;Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;12.1739;13-Mar-2026
+147898;INF846K01V32;INF846K01V24;Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;13.8112;13-Mar-2026
+147890;INF846K01V16;-;Axis Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;14.9649;13-Mar-2026
+147897;INF846K01V81;INF846K01V99;Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;12.3253;13-Mar-2026
+147888;INF846K01W07;INF846K01W15;Axis Income Plus Arbitrage Active FOF - Regular Plan - IDCW;14.9654;13-Mar-2026
+147896;INF846K01V57;INF846K01V40;Axis Income Plus Arbitrage Active FOF - Regular Plan - Monthly IDCW;14.9641;13-Mar-2026
+147905;INF846K01V73;INF846K01V65;Axis Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;11.4186;13-Mar-2026
 153924;INF846KA1283;-;Axis Income Plus Arbitrage Passive FOF - Direct Plan - Growth Option;10.1870;13-Mar-2026
 153925;INF846KA1309;INF846KA1325;Axis Income Plus Arbitrage Passive FOF - Direct Plan - IDCW Option;10.1870;13-Mar-2026
 153927;INF846KA1275;-;Axis Income Plus Arbitrage Passive FOF - Regular Plan - Growth Option;10.1749;13-Mar-2026
@@ -10267,10 +10267,10 @@ Bandhan Mutual Fund
  
 Baroda BNP Paribas Mutual Fund
  
-150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;15.3942;12-Mar-2026
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;15.3942;12-Mar-2026
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;14.6203;12-Mar-2026
-150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;14.6203;12-Mar-2026
+150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;15.2655;13-Mar-2026
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;15.2655;13-Mar-2026
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;14.4976;13-Mar-2026
+150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;14.4976;13-Mar-2026
  
 DSP Mutual Fund
  
