@@ -2050,11 +2050,11 @@ Trust Mutual Fund
  
 148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1274.7207;26-Apr-2026
 148841;INF0GCD01255;-;TRUSTMF Liquid Fund-Direct Plan-Growth;1342.0378;26-Apr-2026
-148839;INF0GCD01305;INF0GCD01297;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;1201.1264;26-Apr-2026
+148839;INF0GCD01305;INF0GCD01297;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;1203.1263;26-Apr-2026
 148837;INF0GCD01271;INF0GCD01289;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;1231.6482;26-Apr-2026
 148834;-;INF0GCD01206;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;1204.5731;26-Apr-2026
 148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1331.9044;26-Apr-2026
-148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1192.0911;26-Apr-2026
+148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1194.0911;26-Apr-2026
 148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1180.0276;26-Apr-2026
  
 Unifi Mutual Fund
@@ -5349,10 +5349,10 @@ Aditya Birla Sun Life Mutual Fund
  
 Axis Mutual Fund
  
-145110;INF846K01J46;-;Axis Large & Mid Cap Fund - Direct Plan - Growth;36.45;23-Apr-2026
-145109;INF846K01J53;INF846K01J61;Axis Large & Mid Cap Fund - Direct Plan - IDCW;24.45;23-Apr-2026
-145112;INF846K01J79;-;Axis Large & Mid Cap Fund - Regular Plan - Growth;32.81;23-Apr-2026
-145111;INF846K01J87;INF846K01J95;Axis Large & Mid Cap Fund - Regular Plan - IDCW;19.14;23-Apr-2026
+145110;INF846K01J46;-;Axis Large & Mid Cap Fund - Direct Plan - Growth;36.21;24-Apr-2026
+145109;INF846K01J53;INF846K01J61;Axis Large & Mid Cap Fund - Direct Plan - IDCW;24.29;24-Apr-2026
+145112;INF846K01J79;-;Axis Large & Mid Cap Fund - Regular Plan - Growth;32.59;24-Apr-2026
+145111;INF846K01J87;INF846K01J95;Axis Large & Mid Cap Fund - Regular Plan - IDCW;19.01;24-Apr-2026
  
 Bajaj Finserv Mutual Fund
  
@@ -9702,10 +9702,10 @@ Axis Mutual Fund
 149846;INF846K012G7;INF846K013G5;Axis Multi Factor Passive FoF - Direct Plan - IDCW;15.5392;24-Apr-2026
 149844;INF846K014G3;-;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;15.3492;24-Apr-2026
 149845;INF846K015G0;INF846K016G8;Axis Multi Factor Passive FoF - Regular Plan - IDCW;15.3501;24-Apr-2026
-153960;INF846KA1366;-;Axis Multi-Asset Active FoF - Direct Plan - Growth;10.3510;23-Apr-2026
-153961;INF846KA1374;INF846KA1382;Axis Multi-Asset Active FoF - Direct Plan - IDCW;10.3510;23-Apr-2026
-153963;INF846KA1333;-;Axis Multi-Asset Active FoF - Regular Plan - Growth;10.3105;23-Apr-2026
-153962;INF846KA1341;INF846KA1358;Axis Multi-Asset Active FoF - Regular Plan - IDCW;10.3105;23-Apr-2026
+153960;INF846KA1366;-;Axis Multi-Asset Active FoF - Direct Plan - Growth;10.2865;24-Apr-2026
+153961;INF846KA1374;INF846KA1382;Axis Multi-Asset Active FoF - Direct Plan - IDCW;10.2865;24-Apr-2026
+153963;INF846KA1333;-;Axis Multi-Asset Active FoF - Regular Plan - Growth;10.2459;24-Apr-2026
+153962;INF846KA1341;INF846KA1358;Axis Multi-Asset Active FoF - Regular Plan - IDCW;10.2459;24-Apr-2026
 149243;INF846K017C5;-;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;12.8385;24-Apr-2026
 149242;INF846K010D8;-;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;12.7651;24-Apr-2026
 149245;INF846K011D6;INF846K012D4;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;12.7651;24-Apr-2026
@@ -10332,10 +10332,10 @@ Bandhan Mutual Fund
  
 Baroda BNP Paribas Mutual Fund
  
-150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;16.4246;23-Apr-2026
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;16.4246;23-Apr-2026
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;15.5812;23-Apr-2026
-150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;15.5812;23-Apr-2026
+150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;16.4208;24-Apr-2026
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;16.4208;24-Apr-2026
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;15.5773;24-Apr-2026
+150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;15.5773;24-Apr-2026
  
 DSP Mutual Fund
  
@@ -12062,7 +12062,7 @@ DSP Mutual Fund
 153228;INF740KA1VE5;-;DSP BSE SENSEX Next 30 ETF;41.354;24-Apr-2026
 154256;INF740KA1YH2;-;DSP BSE Top 10 Banks ETF;16.6871;24-Apr-2026
 153975;INF740KA1WV7;-;DSP MSCI INDIA ETF;28.8678;24-Apr-2026
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000;24-Apr-2026
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;26-Apr-2026
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;333.3598;24-Apr-2026
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;250.0951;24-Apr-2026
 151262;INF740KA1RX3;-;DSP Nifty Bank ETF;57.1794;24-Apr-2026
