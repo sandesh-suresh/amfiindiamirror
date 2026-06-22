@@ -6925,10 +6925,10 @@ Kotak Mahindra Mutual Fund
 152911;INF174KA1TH7;INF174KA1TI5;Kotak MNC Fund-Direct Plan-IDCW Option;12.702;19-Jun-2026
 152913;INF174KA1TJ3;-;Kotak MNC Fund-Regular Plan- Growth;12.405;19-Jun-2026
 152912;INF174KA1TK1;INF174KA1TL9;KotaK MNC Fund-Regular Plan-IDCW OPTION;12.405;19-Jun-2026
-147727;INF174KA1EZ1;-;Kotak Pioneer Fund- Direct Plan- Growth Option;37.5;18-Jun-2026
-147724;INF174KA1EW8;-;Kotak Pioneer Fund- Regular Plan- Growth Option;33.831;18-Jun-2026
-147728;INF174KA1EU2;INF174KA1EV0;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;33.845;18-Jun-2026
-147725;INF174KA1EX6;INF174KA1EY4;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;37.494;18-Jun-2026
+147727;INF174KA1EZ1;-;Kotak Pioneer Fund- Direct Plan- Growth Option;37.858;19-Jun-2026
+147724;INF174KA1EW8;-;Kotak Pioneer Fund- Regular Plan- Growth Option;34.152;19-Jun-2026
+147728;INF174KA1EU2;INF174KA1EV0;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;34.167;19-Jun-2026
+147725;INF174KA1EX6;INF174KA1EY4;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;37.852;19-Jun-2026
 151881;INF174KA1OL0;-;Kotak Quant Fund - Direct Plan - Growth Option;15.294;19-Jun-2026
 151880;INF174KA1OM8;INF174KA1ON6;Kotak Quant Fund - Direct plan - IDCW Payout;15.294;19-Jun-2026
 151878;INF174KA1OI6;-;Kotak Quant Fund - Regular Plan - Growth Option;15.125;19-Jun-2026
