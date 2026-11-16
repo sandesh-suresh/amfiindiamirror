@@ -5686,10 +5686,10 @@ Axis Mutual Fund
 149846;INF846K012G7;INF846K013G5;Axis Multi Factor Passive FoF;Direct Plan;IDCW Option;15.5118;13-Nov-2026
 149844;INF846K014G3;-;Axis Multi Factor Passive FoF;Regular Plan;Growth Option;15.2723;13-Nov-2026
 149845;INF846K015G0;INF846K016G8;Axis Multi Factor Passive FoF;Regular Plan;IDCW Option;15.2732;13-Nov-2026
-153960;INF846KA1366;-;Axis Multi-Asset Omni FoF;Direct Plan;Growth Option;10.8902;12-Nov-2026
-153961;INF846KA1374;INF846KA1382;Axis Multi-Asset Omni FoF;Direct Plan;IDCW Option;10.8902;12-Nov-2026
-153963;INF846KA1333;-;Axis Multi-Asset Omni FoF;Regular Plan;Growth Option;10.7742;12-Nov-2026
-153962;INF846KA1341;INF846KA1358;Axis Multi-Asset Omni FoF;Regular Plan;IDCW Option;10.7742;12-Nov-2026
+153960;INF846KA1366;-;Axis Multi-Asset Omni FoF;Direct Plan;Growth Option;10.8588;13-Nov-2026
+153961;INF846KA1374;INF846KA1382;Axis Multi-Asset Omni FoF;Direct Plan;IDCW Option;10.8588;13-Nov-2026
+153963;INF846KA1333;-;Axis Multi-Asset Omni FoF;Regular Plan;Growth Option;10.7428;13-Nov-2026
+153962;INF846KA1341;INF846KA1358;Axis Multi-Asset Omni FoF;Regular Plan;IDCW Option;10.7427;13-Nov-2026
 150618;INF846K019J6;INF846K010K3;Axis Silver Fund of Fund;Regular Plan;IDCW Option;29.6886;13-Nov-2026
 150617;INF846K018J8;-;Axis Silver Fund of Fund;Regular Plan;Growth Option;29.6897;13-Nov-2026
 150616;INF846K016J2;INF846K017J0;Axis Silver Fund of Fund;Direct Plan;IDCW Option;30.3309;13-Nov-2026
@@ -11561,10 +11561,10 @@ Bandhan Mutual Fund
  
 Baroda BNP Paribas Mutual Fund
  
-150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;Growth Option;16.4532;12-Nov-2026
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;IDCW Option;16.4532;12-Nov-2026
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;IDCW Option;15.5220;12-Nov-2026
-150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;Growth Option;15.5220;12-Nov-2026
+150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;Growth Option;16.5675;13-Nov-2026
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;IDCW Option;16.5675;13-Nov-2026
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;IDCW Option;15.6294;13-Nov-2026
+150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;Growth Option;15.6294;13-Nov-2026
  
 DSP Mutual Fund
  
@@ -11617,8 +11617,8 @@ Franklin Templeton Mutual Fund
  
 HDFC Mutual Fund
  
-149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF;;;21.351;12-Nov-2026
-149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF;;;20.856;12-Nov-2026
+149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF;;;21.296;13-Nov-2026
+149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF;;;20.803;13-Nov-2026
  
 ICICI Prudential Mutual Fund
  
@@ -13177,8 +13177,8 @@ HSBC Mutual Fund
  
 Invesco Mutual Fund
  
-149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund;Direct Plan;Growth;25.0097;12-Nov-2026
-149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund;Regular Plan;Growth;24.7419;12-Nov-2026
+149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund;Direct Plan;Growth;24.5057;13-Nov-2026
+149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund;Regular Plan;Growth;24.2431;13-Nov-2026
 148614;INF205KA1270;-;Invesco India - Invesco Global Consumer Trends Fund of Fund;Direct Plan;Growth;11.0745;13-Nov-2026
 148615;INF205KA1262;INF205KA1288;Invesco India - Invesco Global Consumer Trends Fund of Fund;Direct Plan;IDCW;11.0739;13-Nov-2026
 148613;INF205KA1247;-;Invesco India - Invesco Global Consumer Trends Fund of Fund;Regular Plan;Growth;10.453;13-Nov-2026
