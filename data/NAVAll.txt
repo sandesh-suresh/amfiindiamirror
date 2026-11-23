@@ -3326,10 +3326,10 @@ Kotak Mahindra Mutual Fund
 152911;INF174KA1TH7;INF174KA1TI5;Kotak MNC Fund;Direct Plan;IDCW Option;12.47;20-Nov-2026
 152913;INF174KA1TJ3;-;Kotak MNC Fund;Regular Plan;Growth;12.107;20-Nov-2026
 152912;INF174KA1TK1;INF174KA1TL9;Kotak MNC Fund;Regular Plan;IDCW Option;12.107;20-Nov-2026
-147727;INF174KA1EZ1;-;Kotak Pioneer Fund;Direct Plan;Growth;39.212;19-Nov-2026
-147724;INF174KA1EW8;-;Kotak Pioneer Fund;Regular Plan;Growth;35.184;19-Nov-2026
-147728;INF174KA1EU2;INF174KA1EV0;Kotak Pioneer Fund;Regular Plan;Reinvestment of Income Distribution cum capital withdrawal option;35.199;19-Nov-2026
-147725;INF174KA1EX6;INF174KA1EY4;Kotak Pioneer Fund;Direct Plan;Reinvestment of Income Distribution cum capital withdrawal option;39.207;19-Nov-2026
+147727;INF174KA1EZ1;-;Kotak Pioneer Fund;Direct Plan;Growth;39.091;20-Nov-2026
+147724;INF174KA1EW8;-;Kotak Pioneer Fund;Regular Plan;Growth;35.074;20-Nov-2026
+147728;INF174KA1EU2;INF174KA1EV0;Kotak Pioneer Fund;Regular Plan;Reinvestment of Income Distribution cum capital withdrawal option;35.09;20-Nov-2026
+147725;INF174KA1EX6;INF174KA1EY4;Kotak Pioneer Fund;Direct Plan;Reinvestment of Income Distribution cum capital withdrawal option;39.086;20-Nov-2026
 151881;INF174KA1OL0;-;Kotak Quant Fund;Direct Plan;Growth;14.787;20-Nov-2026
 151880;INF174KA1OM8;INF174KA1ON6;Kotak Quant Fund;Direct Plan;IDCW;14.787;20-Nov-2026
 151878;INF174KA1OI6;-;Kotak Quant Fund;Regular Plan;Growth;14.582;20-Nov-2026
@@ -11610,10 +11610,10 @@ Bandhan Mutual Fund
  
 Baroda BNP Paribas Mutual Fund
  
-150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;Growth Option;15.9807;19-Nov-2026
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;IDCW Option;15.9807;19-Nov-2026
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;IDCW Option;15.0735;19-Nov-2026
-150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;Growth Option;15.0735;19-Nov-2026
+150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;Growth Option;15.6470;20-Nov-2026
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund;Direct Plan;IDCW Option;15.6470;20-Nov-2026
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;IDCW Option;14.7583;20-Nov-2026
+150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund;Regular Plan;Growth Option;14.7583;20-Nov-2026
  
 DSP Mutual Fund
  
@@ -11666,8 +11666,8 @@ Franklin Templeton Mutual Fund
  
 HDFC Mutual Fund
  
-149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF;;;20.396;19-Nov-2026
-149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF;;;19.922;19-Nov-2026
+149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF;;;19.684;20-Nov-2026
+149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF;;;19.226;20-Nov-2026
  
 ICICI Prudential Mutual Fund
  
@@ -13175,10 +13175,10 @@ Axis Mutual Fund
 148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund;Direct Plan;IDCW Option;16.64;20-Nov-2026
 148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund;Regular Plan;Growth Option;15.77;20-Nov-2026
 148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund;Regular Plan;IDCW Option;15.78;20-Nov-2026
-148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund;Direct Plan;Growth Option;10.37;19-Nov-2026
-148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund;Direct Plan;IDCW Option;10.36;19-Nov-2026
-148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund;Regular Plan;Growth Option;9.74;19-Nov-2026
-148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund;Regular Plan;IDCW Option;9.73;19-Nov-2026
+148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund;Direct Plan;Growth Option;9.79;20-Nov-2026
+148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund;Direct Plan;IDCW Option;9.79;20-Nov-2026
+148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund;Regular Plan;Growth Option;9.20;20-Nov-2026
+148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund;Regular Plan;IDCW Option;9.19;20-Nov-2026
 150751;INF846K012K9;-;Axis NASDAQ 100 US Specific Equity Passive FOF;Direct Plan;Growth Option;25.3013;20-Nov-2026
 150749;INF846K013K7;INF846K014K5;Axis NASDAQ 100 US Specific Equity Passive FOF;Direct Plan;IDCW Option;25.3013;20-Nov-2026
 150750;INF846K015K2;-;Axis NASDAQ 100 US Specific Equity Passive FOF;Regular Plan;Growth Option;24.9223;20-Nov-2026
@@ -13226,10 +13226,10 @@ Kotak Mahindra Mutual Fund
 106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Overseas Equity Active FOF;Regular Plan;Payout of Income Distribution cum capital withdrawal option;31.478;20-Nov-2026
 119778;INF174K01LX2;INF174K01LY0;Kotak Global Emerging Market Overseas Equity Active FOF;Direct Plan;Payout of Income Distribution cum capital withdrawal option;34.546;20-Nov-2026
 106441;INF174K01DV3;-;Kotak Global Emerging Market Overseas Equity Active FOF;Regular Plan;Growth;31.476;20-Nov-2026
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Overseas Equity Active FOF;Regular Plan;IDCW Option;12.5726;19-Nov-2026
-149056;INF174KA1HD1;-;Kotak Global Innovation Overseas Equity Active FOF;Regular Plan;Growth;12.5723;19-Nov-2026
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Overseas Equity Active FOF;Direct Plan;IDCW Option;13.3796;19-Nov-2026
-149059;INF174KA1HG4;-;Kotak Global Innovation Overseas Equity Active FOF;Direct Plan;Growth;13.3817;19-Nov-2026
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Overseas Equity Active FOF;Regular Plan;IDCW Option;11.9304;20-Nov-2026
+149056;INF174KA1HD1;-;Kotak Global Innovation Overseas Equity Active FOF;Regular Plan;Growth;11.9301;20-Nov-2026
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Overseas Equity Active FOF;Direct Plan;IDCW Option;12.6965;20-Nov-2026
+149059;INF174KA1HG4;-;Kotak Global Innovation Overseas Equity Active FOF;Direct Plan;Growth;12.6985;20-Nov-2026
 148646;INF174KA1FO2;-;Kotak International REIT Overseas Equity Active FOF;Direct Plan;Growth;11.1558;20-Nov-2026
 148649;INF174KA1FN4;INF174KA1FP9;Kotak International REIT Overseas Equity Active FOF;Direct Plan;Payout of Income Distribution cum capital withdrawal option;11.1557;20-Nov-2026
 148645;INF174KA1FL8;-;Kotak International REIT Overseas Equity Active FOF;Regular Plan;Growth;10.5927;20-Nov-2026
